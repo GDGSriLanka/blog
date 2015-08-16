@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"GDGSriLanka","repositoryName":"blog","branch":"gh-pages"},"site":{"title":"GDG Sri Lanka | Blog","url":"http://www.gdgsrilanka.org/blog"},"socialnetwork":{},"theme":{"name":"Saga","url":"//blog/themes/Saga"}}
